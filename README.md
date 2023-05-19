@@ -2,7 +2,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victordev13&show_icons=true&theme=dracula&locale=en&layout=donut" alt="victordev13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victordev13&show_icons=true&theme=dracula&locale=pt-BR" alt="victordev13" height="215" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victordev13&show_icons=true&theme=dracula&locale=pt-BR" alt="victordev13" /></p>
 
 ##
 <p align="center">📫 Contact me</p>
